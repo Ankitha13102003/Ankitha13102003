@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankitha</h1>
 <h3 align="center">🌐 A Passionate Web Developer & 🐍 Python Full-Stack Enthusiast from India</h3>
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s" alt="Profile Banner" width="600" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul2xsoMWnHckE4Uw49QeKoB9JDzCL2kJdMA&s" alt="Profile Banner" width="100" />
 </p>
 
 <!-- FOLLOW BUTTON -->
